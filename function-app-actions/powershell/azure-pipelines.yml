@@ -1,7 +1,7 @@
 variables: 
-  location: westus
-  groupId: cse01
-  abbrevLocationName: westus
+  location: eastus
+  groupId: resource_group
+  abbrevLocationName: eastus
   instanceCount: 1
   identifier: sample-function-app
   sampleDirectory: function-app-actions
